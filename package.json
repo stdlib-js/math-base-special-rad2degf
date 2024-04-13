@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-rad2degf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert an angle from radians to degrees (single-precision).",
   "license": "Apache-2.0",
   "author": {
