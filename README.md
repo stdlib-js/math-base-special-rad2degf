@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-rad2degf/tags). For example,
+
+```javascript
 import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@v0.1.0-esm/index.mjs';
 ```
 
@@ -93,7 +98,7 @@ d = rad2degf( NaN );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-two-pi@esm/index.mjs';
-import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@v0.1.0-esm/index.mjs';
+import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@esm/index.mjs';
 
 var r;
 var d;
