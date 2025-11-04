@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-28)
+## Unreleased (2025-11-04)
 
 <section class="commits">
 
@@ -12,11 +12,12 @@
 
 <details>
 
+-   [`fafaa5d`](https://github.com/stdlib-js/stdlib/commit/fafaa5d073aaae9f08d79577fcf853c069e4a268) - **chore:** add structured package data for `math/base/special/rad2degf` [(#8374)](https://github.com/stdlib-js/stdlib/pull/8374) _(by Sachin Pangal, Athan Reines)_
 -   [`0240ed9`](https://github.com/stdlib-js/stdlib/commit/0240ed95c31c83898c7605781a2b73e508b8ef71) - **chore:** minor clean-up _(by Philipp Burckhardt)_
--   [`544385d`](https://github.com/stdlib-js/stdlib/commit/544385dd540a06830b51111ac9e61b0aaa81e048) - **docs:** replace manual `for` loop in examples [(#6490)](https://github.com/stdlib-js/stdlib/pull/6490) _(by Harsh)_
+-   [`544385d`](https://github.com/stdlib-js/stdlib/commit/544385dd540a06830b51111ac9e61b0aaa81e048) - **docs:** replace manual `for` loop in examples [(#6490)](https://github.com/stdlib-js/stdlib/pull/6490) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`8d343e1`](https://github.com/stdlib-js/stdlib/commit/8d343e192c75b0c60451e996351ccf276b49f2c4) - **bench:** update random value generation [(#6398)](https://github.com/stdlib-js/stdlib/pull/6398) _(by Harsh)_
+-   [`8d343e1`](https://github.com/stdlib-js/stdlib/commit/8d343e192c75b0c60451e996351ccf276b49f2c4) - **bench:** update random value generation [(#6398)](https://github.com/stdlib-js/stdlib/pull/6398) _(by Harsh Yadav)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
@@ -29,12 +30,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
+-   Sachin Pangal
 
 </section>
 
