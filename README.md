@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@deno/mod.js';
+import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@v0.1.2-deno/mod.js';
 ```
 
 #### rad2degf( x )
@@ -89,7 +89,7 @@ d = rad2degf( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-two-pi@deno/mod.js';
-import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@deno/mod.js';
+import rad2degf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rad2degf@v0.1.2-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
